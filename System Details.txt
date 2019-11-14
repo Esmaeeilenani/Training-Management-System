@@ -1,0 +1,22 @@
+What is TMS Management System?
+A training management system (TMS) is a simulation software application for the administration, documentation, tracking, and reporting of training programs. TMS is focused on back-office processes and are considered a tool for corporate training administrators as such, a training management system acts as a central enterprise resource planning software specific to the training industry. The system can register trainee, trainer, training venues, training offered, and training labs.  Furthermore, the system is capable to allocate training venue to trainee, assign trainer to the student, and assign training and labs for the trainee.
+
+a)	The first number (10) in the file refers to the number of Trainers in the System [ means system will accept ONLY TEN trainers records details] 
+b)	The second number (9) in the file refers to the number of Assistants in the System [ means system will accept ONLY  NINE assistants records details] 
+c)	The third number (20 ) refers to the number of Training Rooms in the system [ means system will accept ONLY TWENTY training venues records  details]
+d)	The fourth number (10 ) refers to the number of Training sessions in the system [ means system will create ONLY TEN sessions records details]
+e)	The fifth number (25 ) refers to the number of Trainee in the system [ means system will accept ONLY TWENTY FIVE trainee records details]
+
+ACCEPTED COMMAND IN THE SYSTEM
+
+Add_Trainer
+Add_Assistant
+Add_TrainingRoom
+Add_TrainingSession
+Add_Trainee
+Assign_TraingSession_Trainer
+Assign_TrainingSession_Assistant 
+Assign_TrainingSession_TrainingRoom
+Assign_TrainingSession_Trinee
+Print_Report 
+Quit

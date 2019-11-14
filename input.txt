@@ -1,0 +1,130 @@
+10 9 20 10 15
+Add_Trainer PhD IT 13 Associate_Professor S478 false 102222 Alaa_Zahrani Saudi 10/12/1973 M 534528754 Rehab 
+Add_Trainer PhD IS 14 Assistant_Professor F241 false 403030 Zaheer_Abbas Indian 4/7/1978 M 505487196 Fayha 
+Add_Trainer Masters CS 18 Lecturer 354 true 442540 Shokat_Azeez Pakistani 7/2/19821 M 567894874 Kandara 
+Add_Trainer PhD IS 14 Assistant_Professor S414 true 496470 Morris_Zukie German 3/12/1977 M 525477415 Balad 
+Add_Trainer PhD CS 15 Assistant_Professor F356 true 453587 Yasser_Ali Jordanian 29/9/1976 M 547871054 Rehab 
+Add_Trainer PhD IS 11 Assistant_Professor G387 false 1050025 Ahmed_Qahtani Saudi 2/12/1975 M 500587414 Jamia 
+Add_Trainer Masters CS 16 Lecturer 466 true 348741 Zahoor_Rashid Indian 12/12/1981 M 538700365 Rehab 
+Add_Trainer DSc IT 9 Professor 473 true 449872 Aysha_Ayman Egyptian 12/2/21981 M 537874123 Jamia 
+Add_Trainer PhD CS 9 Professor 315 true 444540 Manzar_Zahrani Saudi 30/6/1977 M 547803485 Kandara 
+Add_Trainer Masters IS 11 Lecturer 381 true 104514 Ghada_Ali_Zahrani Saudi 8/4/1980 F 508793215 Fayha 
+Add_Assistant 10 python/Data/Science 103451 Manal_Kamel Saudi 12/20/1970 F 555528754 Madina_road 
+Add_Assistant 3 java/python/AI 103452 Dalia_marwan Saudi 9/10/1986 F 555528754 king_fahad_road 
+Add_Assistant 5 Asp.net/Photoshop 103453 Kareem_moneer Egyptian 2/20/1988 M 550008754 Alsafaa 
+Add_Assistant 2 javaScript/HTML 103454 Malak_salem Saudi 11/05/1990 F 50000088 Almarwa 
+Add_Assistant 1 php/python/Django 103455 Manal_Kamel Saudi 10/02/1977 F 552228754 Madina_road 
+Add_Assistant 3 java/python/HTML/ 103456 Samra_Morad Indian 08/03/1988 F 555666754 Altahlia_street 
+Add_Assistant 15 C/HTML/Data/Science 103457 Jamal_Jameel Saudi 11/12/1975 M 566666754 Madaen_alfahad 
+Add_Assistant 2 java/python/Machine_learning 103458 Marwan_khordi Saudi 26/4/1983 m 556755554 Alrawbi 
+Add_Assistant 3  python/NLP 103459 Masa_Albeladi Saudi 12/10/1987 F 566664666 Alsalama 
+Add_TrainingRoom 1001 Second 31 40 
+Add_TrainingRoom 1002 First 14 40 
+Add_TrainingRoom 1003 Second 14 30 
+Add_TrainingRoom 1004 Ground 12 20 
+Add_TrainingRoom 1005 First 12 15 
+Add_TrainingRoom 1006 Second 41 30 
+Add_TrainingRoom 1007 Fourth 74 53 
+Add_TrainingRoom 1008 First 31 10 
+Add_TrainingRoom 1009 Third 14 12 
+Add_TrainingRoom 1010 Second 31 10 
+Add_TrainingRoom 1011 Ground 31 40 
+Add_TrainingRoom 1012 Second 31 80 
+Add_TrainingRoom 1013 Second 31 50 
+Add_TrainingRoom 1014 Fifth 31 12 
+Add_TrainingRoom 1015 Third 31 40 
+Add_TrainingRoom 1016 First 32 50 
+Add_TrainingRoom 1017 Second 33 60 
+Add_TrainingRoom 1018 Third 34 70 
+Add_TrainingRoom 1019 Third 35 80 
+Add_TrainingRoom 1020 Ground 36 90 
+Add_TrainingSession 450 Data_Science 12/12/2019 3  
+Add_TrainingSession 451 java_programing 05/12/2019 2  
+Add_TrainingSession 452 python_programing 10/3/2020 4  
+Add_TrainingSession 453 HTML_JavaScript 11/11/2019 2  
+Add_TrainingSession 454 Web_development_using_asp.net 12/3/2020 3  
+Add_TrainingSession 455 Machine_learning_using_python 2/12/2019 1 
+Add_TrainingSession 456 JavaScript 28/12/2019 2  
+Add_TrainingSession 457 Advance_topics_AI 05/07/2020 3  
+Add_TrainingSession 458 Php 08/06/2020 2  
+Add_TrainingSession 459 python_Djano 12/6/2020 2   
+Add_Trainee 12/3/2019 170001 Moukhled_AlOutaibi Saudi 08/09/1998 M 12412222 Jeddah 
+Add_Trainee 25/5/2015 170002 Abdullah_Abdulaziz_AlJoud Saudi 8/8/1995 M 28322530 Makkah 
+Add_Trainee 12/12/2019 170003 Hussein_AlYami Saudi 2/10/1999 M 12412222 Jeddah  
+Add_Trainee 22/05/2015 170004 Alyan_Sultan_Al_Qahtani Saudi 10/10/1995 M 28322530 Makkah  
+Add_Trainee 1/03/2019 170005 Tariq_Ahmed_AlAmri Saudi 28/1/1999 M 12412222 Damam  
+Add_Trainee 2/5/2015 170006  Mohamed_Obaid_AlSahli Saudi 18/9/1990 M 28322530 Riyadh  
+Add_Trainee 10/3/2019 170007 Youssef_AlMasrahi Saudi 5/2/1998 M 12412222 Jeddah  
+Add_Trainee 20/2/2015 170008 Abdullah_Abdelaziz Saudi 15/4/1995 M 28322530 Makkah  
+Add_Trainee 11/3/2019 170009 Khaled_AlOutaibi Saudi 9/9/1998 M 12412222 Jeddah  
+Add_Trainee 20/5/2015 170010 Hadi_Soud_AlSomaily Saudi 10/4/2001 M 28322530 Makkah  
+Add_Trainee 12/3/2019 170011 Hamdan_Odha_AlBishi Saudi 8/8/2002 M 12412222 Jeddah  
+Add_Trainee 25/5/2015 170012 Nada_AlSabani Saudi 8/9/1995 F 28322530 Makkah  
+Add_Trainee 12/3/2019 170013 Fatima_AlYassin Saudi 8/9/1998 F 12412222 Jeddah  
+Add_Trainee 25/5/2011 170014 Ismail_AlSabani Saudi 8/9/1995 M 28322530 Jeddah  
+Add_Trainee 12/3/2010 170015 Akram_Nouri Indian 2/12/1999 M 12412222 Riyadh 
+Assign_TraingSession_Trainer 455 102222 
+Assign_TraingSession_Trainer 455 496470  
+Assign_TraingSession_Trainer 451 449872 
+Assign_TraingSession_Trainer 452 104514 
+Assign_TraingSession_Trainer 453 444540 
+Assign_TraingSession_Trainer 454 442540 
+Assign_TraingSession_Trainer 456 348741 
+Assign_TraingSession_Trainer 457 453587 
+Assign_TraingSession_Trainer 458 348741 
+Assign_TraingSession_Trainer 459 453587 
+Assign_TraingSession_Trainer 450 444540 
+Assign_TrainingSession_Assistant 455 103459  
+Assign_TrainingSession_Assistant 455 103458  
+Assign_TrainingSession_Assistant 451 103452 
+Assign_TrainingSession_Assistant 452 103452 
+Assign_TrainingSession_Assistant 453 103454 
+Assign_TrainingSession_Assistant 454 103453 
+Assign_TrainingSession_Assistant 456 103454 
+Assign_TrainingSession_Assistant 457 103452 
+Assign_TrainingSession_Assistant 458 103455 
+Assign_TrainingSession_Assistant 459 103455 
+Assign_TrainingSession_Assistant 450 103457 
+Assign_TrainingSession_TrainingRoom 450 1001 
+Assign_TrainingSession_TrainingRoom 451 1002 
+Assign_TrainingSession_TrainingRoom 452 1003 
+Assign_TrainingSession_TrainingRoom 453 1004 
+Assign_TrainingSession_TrainingRoom 454 1005 
+Assign_TrainingSession_TrainingRoom 455 1006 
+Assign_TrainingSession_TrainingRoom 456 1007 
+Assign_TrainingSession_TrainingRoom 457 1008 
+Assign_TrainingSession_TrainingRoom 458 1011 
+Assign_TrainingSession_TrainingRoom 459 1012 
+Assign_TrainingSession_Trinee 170001 455 
+Assign_TrainingSession_Trinee 170001 453 
+Assign_TrainingSession_Trinee 170001 456 
+Assign_TrainingSession_Trinee 170002 455 
+Assign_TrainingSession_Trinee 170002 455 
+Assign_TrainingSession_Trinee 170003 453 
+Assign_TrainingSession_Trinee 170004 456 
+Assign_TrainingSession_Trinee 170004 455 
+Assign_TrainingSession_Trinee 170005 450 
+Assign_TrainingSession_Trinee 170006 451 
+Assign_TrainingSession_Trinee 170007 452 
+Assign_TrainingSession_Trinee 170004 453 
+Assign_TrainingSession_Trinee 170005 455 
+Assign_TrainingSession_Trinee 170006 453 
+Assign_TrainingSession_Trinee 170010 450 
+Assign_TrainingSession_Trinee 170004 450 
+Assign_TrainingSession_Trinee 170010 454 
+Assign_TrainingSession_Trinee 170011 450 
+Assign_TrainingSession_Trinee 170008 456 
+Assign_TrainingSession_Trinee 170008 458 
+Assign_TrainingSession_Trinee 170008 459 
+Assign_TrainingSession_Trinee 170009 452 
+Assign_TrainingSession_Trinee 170009 455 
+Assign_TrainingSession_Trinee 170006 455 
+Assign_TrainingSession_Trinee 170012 450 
+Assign_TrainingSession_Trinee 170013 451 
+Assign_TrainingSession_Trinee 170014 452 
+Assign_TrainingSession_Trinee 170015 453 
+Assign_TrainingSession_Trinee 170012 454 
+Assign_TrainingSession_Trinee 170013 455 
+Assign_TrainingSession_Trinee 170014 455 
+Print_Report 
+Quit
